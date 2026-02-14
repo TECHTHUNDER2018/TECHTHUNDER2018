@@ -87,22 +87,25 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TECHTHUNDER2018&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TECHTHUNDER2018&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TECHTHUNDER2018&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TECHTHUNDER2018&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="languages graph" />
 </div>
+
 <br/>
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=TECHTHUNDER2018&theme=tokyonight&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=TECHTHUNDER2018&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
 </div>
 
 <h3 align="center">🏆 Trophies</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TECHTHUNDER2018&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TECHTHUNDER2018&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="trophies" />
 </div>
 
 <br/>
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quotes" />
   <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=TECHTHUNDER2018&icon=6&color=13" />
+  <img src="https://visitcount.itsvg.in/api?id=TECHTHUNDER2018&icon=6&color=13" alt="visit count" />
 </div>
